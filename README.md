@@ -1,4 +1,4 @@
-1. This project was developed by Yitao Qiu, an author of our paper accepted by IEEE HPCC-2020. This project is used for backup.
+1. Source codes in this project was written by Yitao Qiu, an author of our paper accepted by IEEE HPCC-2020. This project is used for backup.
 
 2. This project is developed in Python3. To run the programs, you need to install two python library named numpy and matplotlib.
 
